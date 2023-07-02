@@ -1,9 +1,8 @@
 # Sourcerer ( A Sourcemeter Magician )
 
-CS 258 Software Engineering Project <br />
-Course Instructor : Dr. Abhishek Srivastava <br />
+Internship Project <br />
 
-This is a software to assist Dr. Somaditya Sen in his on-going project which<br /> facilitates the studying of
+This is a software to assist Dr. Sachin in his on-going project which<br /> facilitates the studying of
 electrical and thermal properties of a material <br />using the Keithley
 Sourcemeter. However, the software can be<br /> used by any general Sourcemeter
 users for simple measurement experiments. <br />
